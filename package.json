@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.4",
-    "turbo": "^1.10.12",
+    "turbo": "^1.9.7",
     "vite": "^4.4.9"
   },
   "dependencies": {
