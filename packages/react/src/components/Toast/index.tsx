@@ -24,7 +24,7 @@ function prettyDate(date: Date) {
 }
 
 export function Toast({ title, date }: ToastProps) {
-  const [open, setOpen] = useState(true)
+  const [open, setOpen] = useState(false)
   const eventDateRef = useRef(new Date())
   const timerRef = useRef(0)
 
